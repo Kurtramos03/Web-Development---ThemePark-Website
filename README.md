@@ -16,6 +16,10 @@ Perfect for front-end practice, static hosting, and design demonstration.
 * CSS3	Visual design, layout, and responsiveness
 * JavaScript	Interactive elements like sliders, menus, and modal popups
 
+# Website Display
+![themepark website](https://github.com/user-attachments/assets/e494d031-78b6-4fde-ab0b-e395c76e80e3)
+
+
 👋 Contact Me
 Created by Kurt Ramos as part of a web development practice project.
 
