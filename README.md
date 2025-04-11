@@ -1,5 +1,11 @@
 # Web Development - Theme Park Website 🎢
-A static, multi-page website created to showcase an engaging and family-friendly Theme Park experience. Built with HTML, CSS, and JavaScript, this site presents attractions, ticket info, location details, and more — all with a bright, interactive design.
+A static, multi-page website created to showcase an engaging and family-friendly Theme Park experience. Built with HTML, CSS, and JavaScript, this site presents attractions, ticket info, location details, and more — all with a bright, interactive design. This project was a group project in my web development module.
+
+# Roles and Contribution 🥳
+Group Leader(Kurt Ramos): Created the base template for the website such as the HTML and CSS template. Ensured that all the files and stylesheets has been modularized well to ensure that proper readability and understandability within the team.
+Home page (Kurt Ramos)
+Checkout page (Yi Ting and Sakthi)
+Attractions & F&B Page (Eugene and Crystal)
 
 # 🧾 Description
 This project simulates a real-world business website for a fictional (or real) theme park, providing users with:
