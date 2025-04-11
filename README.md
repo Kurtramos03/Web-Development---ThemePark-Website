@@ -28,7 +28,7 @@ Perfect for front-end practice, static hosting, and design demonstration.
 
 # 👋 Contact Me
 Created by Kurt Ramos as part of a web development practice project.
-Email: kurtramos36@gmail.com
-LinkedIn: https://www.linkedin.com/in/kurt-ramos/
+* Email: kurtramos36@gmail.com
+* LinkedIn: https://www.linkedin.com/in/kurt-ramos/
 
 
